@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactsProvider</string>
+    <string name="permission_denied">Contacts can not be shown without permission</string>
+</resources>
